@@ -1,0 +1,6 @@
+# pack-refs with: peeled fully-peeled sorted 
+a9c27aeab3d8e64b5cf44ed75d29ae26d8ec337b refs/remotes/origin/developer
+69b15df5d5ed449df9403faa764e4695b9dce13a refs/remotes/origin/feature/cdc-with-lwc
+69b15df5d5ed449df9403faa764e4695b9dce13a refs/remotes/origin/hotfix
+69b15df5d5ed449df9403faa764e4695b9dce13a refs/remotes/origin/master
+69b15df5d5ed449df9403faa764e4695b9dce13a refs/tags/20210622.1
